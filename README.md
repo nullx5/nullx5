@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-
+![https://i.imgur.com/sIus9lC.gif](https://i.imgur.com/sIus9lC.gif)
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9242513) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@bl3ssedc0de) 
 
